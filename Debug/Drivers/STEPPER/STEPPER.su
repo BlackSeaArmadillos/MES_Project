@@ -1,0 +1,10 @@
+DWT_Delay.h:32:22:DWT_Delay_ms	24	static
+STEPPER.c:58:6:STEPPERS_Init	48	static
+STEPPER.c:113:6:STEPPERS_Init_TMR	48	static
+STEPPER.c:141:6:STEPPER_SetSpeed	32	static
+STEPPER.c:157:13:STEPPER_One_Step	24	static
+STEPPER.c:208:6:STEPPER_Step_Blocking	24	static
+STEPPER.c:224:6:STEPPER_Step_NonBlocking	16	static
+STEPPER.c:230:6:STEPPER_Stop	16	static
+STEPPER.c:235:6:STEPPER_Main	16	static
+STEPPER.c:254:6:STEPPER_TMR_OVF_ISR	24	static
